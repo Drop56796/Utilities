@@ -6,5 +6,5 @@ achievementGiver({
     Title = "Title",
     Desc = "Description",
     Reason = "Reason",
-    Image = "rbxassetid://12309073114"
+    Image = "rbxassetid://8808550143"
 })
